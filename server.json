@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Carbbonara",
+      "price": "39.90",
+      "description": "Macarrão ao molho branco, com bacon e pimenta",
+      "available": false,
+      "id": 4
     }
   ]
 }
